@@ -7,7 +7,7 @@ mlops end 2 end project
 2. data validation
 3.data transformation
 4. model trainer
-5. model evaluation
+5. model evaluation   mlflow/dagshub
 
 ## workflows
 1. update config.yaml
